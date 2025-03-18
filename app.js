@@ -3,7 +3,7 @@ const main=document.querySelector(".chat-list");
 const togglethemebutton=document.querySelector("#toggle-theme-button");
 const deletebtn=document.querySelector("#delete-chat");
 const suggestion=document.querySelectorAll(".suggestion .box");
-const API_KEY="AIzaSyB0o022uOZXnJO7EKQd9qMepgnjus4gg8I";
+const API_KEY="AIzaSyBCjEnWdcjqMQDN0i7UiRQiGoQyhJyWFYI";
 // third step
 const createMessageElement=(content,...classes)=>{
   let div=document.createElement("div");
